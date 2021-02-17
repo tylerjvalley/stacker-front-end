@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    text-align: center;
+    width: 300px;
+
+    table {
+        border: 1px solid black;
+        width: 100%;
+        background: black;
+
+        thead {
+            border: 1px solid black;
+            th {
+                background: gray;
+            }
+        }
+
+        tbody tr {
+            border: 1px solid black;
+            td {
+                background: cyan;
+                height: 50px;
+            }
+        }
+
+    }
+}

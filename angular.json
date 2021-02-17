@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "stacker-back-end"
+    }
+  },
+  "defaultProject": "stacker-back-end",
+  "cli": {
+    "analytics": "da35c8f7-6228-4e57-a34b-d96b87d18954"
+  }
 }
